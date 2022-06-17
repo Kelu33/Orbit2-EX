@@ -1,0 +1,9 @@
+body {
+    position: relative;
+    background-color: rgb(172,172,172);
+}
+h1 {
+    position: absolute;
+    z-index: 1;
+    color: rgb(172,172,172);
+}
